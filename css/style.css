@@ -165,7 +165,7 @@ a{
 }
 .card-icon{
     color: #c00a11;
-    padding-right: 5pxj;
+    padding-right: 10px;
 }
 
 /* card part end */
@@ -245,3 +245,121 @@ a{
 background: #dfece6;
 }
 /* notic part end */
+/* event start */
+#event{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.event-item{
+    display: flex;
+}
+.news-event{
+    width: 300px;
+}
+.news-event h3{
+    color:#215a6d;
+    font-size: 29px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif; 
+}
+.news-event h4{
+    font-size: 18px;
+    color:#3ca2a2;
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif; 
+
+}
+.news-event p{
+    font-size: 13px;
+    color:#215a6d;
+    padding-bottom: 40px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;  
+}
+.news-event a{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    font-weight: 400;
+    color: #92c7a3;
+    padding-bottom: 30px;
+ }
+
+.news-event i{
+    color: #bf0a11;
+    padding-right: 10px;
+    padding-bottom: 15px;
+}
+
+.medical-service{
+padding-left: 30px;
+width: 300px;
+}
+.medical-service h3{
+    color:#215a6d;
+    font-size: 29px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif; 
+}
+.medical-service h4{
+    padding-top:10px ;
+    font-size: 13PX;
+    color: #215a6d;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif; 
+}
+.medical-service a{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    font-weight: 400;
+    color: #92c7a3;
+    padding-bottom: 30px;
+ }
+
+.medical-icon i{
+    color: #bf0a11;
+    padding-right: 10px;
+    padding-bottom: 15px;
+}
+
+.photo-gal{
+    padding-left: 30px;
+    width: 300px;
+}
+.photo-gal h3{
+    color:#215a6d;
+    font-size: 29px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif; 
+}
+.ph-gal{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    display: flex;
+}
+.ph-gal-item-1{
+ width: 140px;
+}
+.ph-gal-item-2{
+width: 140px;
+padding-left: 20px;
+}
+.photo-gal a{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    font-weight: 400;
+    color: #92c7a3;
+    padding-bottom: 30px;
+ }
+
+.photo-gal i{
+    color: #bf0a11;
+    padding-right: 10px;
+    padding-bottom: 15px;
+}
+.line-white-event{
+width: 250px;
+height: 2px;
+background:#eaeaea;
+}
+/* event end*/
