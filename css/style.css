@@ -241,6 +241,10 @@ a{
     padding-top: 10px;
     padding-left: 10px;
 }
+.news-icon i{
+    color: #ffffff;
+    font-size: 16px;
+}
 .notice-video-content{
 background: #dfece6;
 }
